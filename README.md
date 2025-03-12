@@ -28,14 +28,7 @@ PATH ---- img_align_celeba ---- xxxxxx.jpg
 
 ## Downloading pre-trained models
 
-To use our trained models, you must download them first. Please extract them to the folder `models`. Our code provides the CelebA diffusion model, the classifier under observation, and the trained oracle. Download the VGGFace2 model throught this [github repo](https://github.com/cydonia999/VGGFace2-pytorch). Download the `resnet50_ft` model.
-
-Download Link:
-
-- [Classifier](https://drive.google.com/file/d/1OqjWns4NSu6AiKkOnpUOjUHzA8sQlaOA/view?usp=sharing)
-- [Diffusion Model](https://drive.google.com/file/d/17iB1aL4xctDukov-OIDuKqZdQ9YB1ZQz/view?usp=sharing)
-- [Oracle](https://drive.google.com/file/d/1Ua9gK1BiUTG4wIkhpBpWyn6B-OCQKKMx/view?usp=sharing)
-
+To use our trained models, you must download them first from this [link](https://huggingface.co/guillaumejs2403/DiME). Please extract them to the folder `models`. We provides the CelebA diffusion model, the classifier under observation, and the trained oracle. Finally, download the VGGFace2 model throught this [github repo](https://github.com/cydonia999/VGGFace2-pytorch). Download the `resnet50_ft` model.
 
 ## Extracting Counterfactual Explanations
 
