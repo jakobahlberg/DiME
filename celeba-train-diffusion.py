@@ -1,7 +1,7 @@
 """
 Train a diffusion model on images.
 """
-
+"""TESTER COMMENT"""
 import argparse
 
 from core import dist_util, logger
