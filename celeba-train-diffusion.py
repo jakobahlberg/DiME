@@ -2,6 +2,8 @@
 Train a diffusion model on images.
 """
 """TESTER COMMENT"""
+
+""""testere ter er er er """
 import argparse
 
 from core import dist_util, logger
